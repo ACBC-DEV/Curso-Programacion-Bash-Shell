@@ -12,7 +12,7 @@ echo "Arreglo de Rangos: ${arregloRangos[*]}"
 
 # Imprimir los tamaños de los arreglos
 echo "Tamaño Arreglo de Números: ${#arregloNumeros[*]}"
-echo "Tamaño Arreglo de Cadenas: ${#arregloCadenas[*]}"
+echo "Tamaño Arreglo de Cadenas: ${#arregloCadenas}"
 echo "Tamaño Arreglo de Rangos: ${#arregloRangos[*]}"
 
 # Imprimir la posición 3 del arreglo de números, cadenas y rangos
